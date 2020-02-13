@@ -1,6 +1,6 @@
 language: node_js
 
-# Addons configuration that can be referenced by each matrix entry,
+# Addons  configuration that can be referenced by each matrix entry,
 # this way we can easily enable Sauce Connect for end-to-end tests only.
 .apt: &APT
   sources:
